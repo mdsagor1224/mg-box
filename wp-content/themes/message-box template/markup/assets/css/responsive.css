@@ -1,0 +1,44 @@
+/* LG Device : 992px */
+@media (min-width:992px) and (max-width:1199px){
+    
+}
+
+/* MD Device : 768px */
+@media (min-width:768px) and (max-width:991px){
+
+    br{
+        display: none;
+    }
+    .mg-hero-content {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .mg-hero-title {
+        font-size: 46px;
+        line-height: 56px;
+    }
+
+    .widget-3 {
+        margin-left: 0px;
+    }
+    .widget-4 {
+        margin-left: 90px;
+    }
+    .widget-2 {
+        margin-left: 90px;
+    }
+
+
+}
+
+/* SM Device :576px */
+@media (min-width:576px) and (max-width:767px){
+   
+}
+
+
+/* Extra small Device */
+@media (max-width: 767px){
+  
+
+}
